@@ -13,7 +13,7 @@ class HomeScreenNavbar extends StatelessWidget {
           height: 24,
           width: 24,
           decoration: BoxDecoration(
-            image: DecorationImage(image: Svg('assets/svg/bars-solid.svg', size: Size()))
+            image: DecorationImage(image: Svg('assets/svg/bars-solid.svg'),),
           ),
         )
       ],
