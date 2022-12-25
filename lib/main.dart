@@ -2,7 +2,9 @@ import 'package:flutter/material.dart';
 import 'package:flutter_rating_bar/flutter_rating_bar.dart';
 import 'package:flutter_svg_provider/flutter_svg_provider.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:truehealth_patient/truehealth_theme.dart/';
+import 'package:truehealth_patient/truehealth_theme.dart';
+import 'screens/doctor_detail_screen.dart';
+import 'screens/home_screen.dart';
 //import 'package:truehealth_patient/';
 
 void main() {
