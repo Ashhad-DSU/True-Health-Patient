@@ -17,6 +17,13 @@ class HomeScreen extends StatelessWidget {
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
                 const HomeScreenNavbar(),
+                RichText(text: TextSpan(
+                  style: Theme.of(context).textTheme.headline1,
+                  children: <TextSpan>[
+                    const TextSpan(text: "Find "),
+                    const TextSpan(text: "Your Doctor")
+                  ]
+                ))
               ],
             ),
           ),
