@@ -11,11 +11,14 @@ class HomeScreen extends StatelessWidget {
     return Scaffold(
       body: SafeArea(
         child:SingleChildScrollView(
-          child: Column(
-            crossAxisAlignment: CrossAxisAlignment.start,
-            children: [
-              const HomeScreenNavbar(),
-            ],
+          child: Padding(
+            padding: const EdgeInsets.all(16.0),
+            child: Column(
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                const HomeScreenNavbar(),
+              ],
+            ),
           ),
         ),
       ),
