@@ -1,6 +1,8 @@
 
 import 'package:flutter/material.dart';
 
+import '../models/doctor.dart';
+
 class DoctorAppGridMenu extends StatelessWidget {
   const DoctorAppGridMenu({Key? key}) : super(key: key);
 
