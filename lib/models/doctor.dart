@@ -73,7 +73,7 @@ var topDoctors = [
     doctorYearOfExperience: '11',
     doctorDescription:
     'is one of the best doctors in the Holy Hospital. He has saved more than 1500 patients in the past decade. He has also received many awards from domestic and abroad as the best doctors. He is available on a private or schedule.',
-    doctorPicture: 'doc-men-03.jpg',
+    doctorPicture: 'doc-men-03.png',
   ),
   Doctor(
     doctorName: 'Dr. Donna Paulsen',
@@ -84,7 +84,7 @@ var topDoctors = [
     doctorYearOfExperience: '4',
     doctorDescription:
     'is one of the best doctors in the Liaquat National Hospital. She has saved more than 800 patients in the past 4 years. She has also received many awards from domestic and abroad as the best doctors. She is available on a private or schedule.',
-    doctorPicture: 'doc-women-03.jpg',
+    doctorPicture: 'doc-women-03.png',
   ),
 ];
 
