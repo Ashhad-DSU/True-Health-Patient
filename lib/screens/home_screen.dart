@@ -4,7 +4,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:truehealth_patient/constants.dart';
 
-import '../home_screen_navbar.dart';
+import '../components/home_screen_navbar.dart';
 
 class HomeScreen extends StatelessWidget {
   const HomeScreen({Key? key}) : super(key: key);
@@ -57,7 +57,8 @@ class HomeScreen extends StatelessWidget {
                       border: InputBorder.none,
                     ),
                   ),
-                )
+                ),
+                //DoctorAppGridMenu(),
               ],
             ),
           ),

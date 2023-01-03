@@ -3,6 +3,8 @@ import 'package:flutter/material.dart';
 import 'package:flutter_svg_provider/flutter_svg_provider.dart';
 import 'package:truehealth_patient/constants.dart';
 
+import 'doctor_app_grid_menu.dart';
+
 class HomeScreenNavbar extends StatelessWidget {
   const HomeScreenNavbar({Key? key}) : super(key: key);
 
@@ -26,6 +28,7 @@ class HomeScreenNavbar extends StatelessWidget {
             backgroundImage: NetworkImage('https://static.toiimg.com/photo/msid-81203766/81203766.jpg')
           ),
         ),
+        const DoctorAppGridMenu(),
 
       ],
     );
