@@ -21,26 +21,26 @@ class Doctor {
 
 var topDoctors = [
   Doctor(
-    doctorName: 'Dr. Shae Gill',
-    doctorSpecialty: 'Heart',
+    doctorName: 'Dr. Ellyse Perry',
+    doctorSpecialty: 'Gynae',
     doctorRating: '4.8',
     doctorHospital: 'Civil Hospital',
     doctorNumberOfPatient: '1221',
     doctorYearOfExperience: '3',
     doctorDescription:
     'is one of the best heart doctors in Karachi city. She has saved more than 1000 patients in the past 3 years. She has also received many awards from domestic and abroad as the best doctors. He is available on a private or schedule.',
-    doctorPicture: 'img-women-01.png',
+    doctorPicture: 'doc-women-01.png',
   ),
   Doctor(
-    doctorName: 'Dr. Fahad Mustafa',
-    doctorSpecialty: 'Dental',
+    doctorName: 'Dr. Hasnat Khan',
+    doctorSpecialty: 'Heart',
     doctorRating: '4.7',
     doctorHospital: 'South City Hospital',
     doctorNumberOfPatient: '964',
     doctorYearOfExperience: '4',
     doctorDescription:
-    'is one of the best doctors in the Columbia Asia Hospital. He has saved more than 900 patients in the past 4 years. He has also received many awards from domestic and abroad as the best doctors. He is available on a private or schedule.',
-    doctorPicture: 'img-men-01.png',
+    'is one of the best doctors in the South City Hospital. He has saved more than 900 patients in the past 4 years. He has also received many awards from domestic and abroad as the best doctors. He is available on a private or schedule.',
+    doctorPicture: 'doc-men-01.png',
   ),
   Doctor(
     doctorName: 'Dr. Achraf Hakimi',
@@ -51,7 +51,7 @@ var topDoctors = [
     doctorYearOfExperience: '5',
     doctorDescription:
     'is one of the best doctors in Islamabad. He has saved more than 700 patients in the past 5 years. He has also received many awards from domestic and abroad as the best doctors. He is available on a private in weekends or schedule.',
-    doctorPicture: 'img-men-02.png',
+    doctorPicture: 'doc-men-02.png',
   ),
   Doctor(
     doctorName: 'Dr. Dua Lipa',
@@ -62,18 +62,18 @@ var topDoctors = [
     doctorYearOfExperience: '6',
     doctorDescription:
     'is one of the best doctors in the Agha Khan Hospital. He has saved more than 1400 patients in the past 6 years. She has also received many awards from domestic and abroad as the best doctors. She is available on a private or schedule.',
-    doctorPicture: 'img-women-02.png',
+    doctorPicture: 'doc-women-02.png',
   ),
   Doctor(
     doctorName: 'Dr. Kevin Spacey',
     doctorSpecialty: 'Child',
     doctorRating: '4.6',
     doctorHospital: 'Holy Family Hospital',
-    doctorNumberOfPatient: '551',
-    doctorYearOfExperience: '3',
+    doctorNumberOfPatient: '1551',
+    doctorYearOfExperience: '11',
     doctorDescription:
-    'is one of the best doctors in the Holy Hospital. He has saved more than 500 patients in the past 3 years. He has also received many awards from domestic and abroad as the best doctors. He is available on a private or schedule.',
-    doctorPicture: 'img-men-03.png',
+    'is one of the best doctors in the Holy Hospital. He has saved more than 1500 patients in the past decade. He has also received many awards from domestic and abroad as the best doctors. He is available on a private or schedule.',
+    doctorPicture: 'doc-men-03.jpg',
   ),
   Doctor(
     doctorName: 'Dr. Donna Paulsen',
@@ -84,7 +84,7 @@ var topDoctors = [
     doctorYearOfExperience: '4',
     doctorDescription:
     'is one of the best doctors in the Liaquat National Hospital. She has saved more than 800 patients in the past 4 years. She has also received many awards from domestic and abroad as the best doctors. She is available on a private or schedule.',
-    doctorPicture: 'img-women-03.png',
+    doctorPicture: 'doc-women-03.jpg',
   ),
 ];
 
